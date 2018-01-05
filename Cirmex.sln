@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirmex", "Cirmex\Cirmex.csproj", "{845A78BB-6C24-4FE1-80AF-AFE492928A75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845A78BB-6C24-4FE1-80AF-AFE492928A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845A78BB-6C24-4FE1-80AF-AFE492928A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845A78BB-6C24-4FE1-80AF-AFE492928A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845A78BB-6C24-4FE1-80AF-AFE492928A75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
